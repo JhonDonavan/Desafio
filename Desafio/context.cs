@@ -7,6 +7,7 @@ namespace Desafio
 
     public partial class Context : DbContext
     {
+
         public Context()
             : base("name=context")
         {

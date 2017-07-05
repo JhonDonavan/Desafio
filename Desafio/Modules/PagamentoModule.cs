@@ -4,6 +4,7 @@ using Nancy.ModelBinding;
 using System.Data.Entity;
 using System.Linq;
 
+
 namespace Desafio
 {
     public class PagamentoModule : NancyModule

@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Desafio
 {
+
     [Table("clientes")]
     public class Cliente
     {
